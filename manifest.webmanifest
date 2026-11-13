@@ -1,0 +1,17 @@
+{
+  "name": "ICJ Asistencia",
+  "short_name": "ICJ Asistencia",
+  "description": "Asistencia institucional del Instituto de Ciencias Junín",
+  "lang": "es-AR",
+  "start_url": "./?abrir=1",
+  "scope": "./",
+  "display": "browser",
+  "background_color": "#0056B8",
+  "theme_color": "#0056B8",
+  "icons": [
+    { "src": "iconos/logo-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/logo-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "iconos/icono-maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "iconos/icono-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
